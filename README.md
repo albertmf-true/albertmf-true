@@ -12,6 +12,7 @@ IA
 
 ### Projectes destacats
 [Projecte Java Script frontend](https://github.com/jmirinformatica-classroom50/daw-1b-tallers-frontend-amunozf-git)
+
 [Projecte Python Wannapop](https://github.com/jmirinformatica-classroom50/daw-1c-projecte-1-group-10)
 
 ### Contacte
