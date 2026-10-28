@@ -1,6 +1,7 @@
 ## Albert Muñoz Fernández
 Estudiant d'informatica. 
 Estudio Desenvolupament d'Aplicacions Web en l'institut Joaquim Mir.
+
 Els meus interessos fora de l'informatica són la música i l'art.
 
 ### Tecnologies
