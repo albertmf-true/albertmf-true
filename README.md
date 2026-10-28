@@ -1,3 +1,4 @@
+![Banner del meu perfil](bannerdeverdad.png)
 ## Albert Muñoz Fernández
 Estudiant d'informatica. 
 Estudio Desenvolupament d'Aplicacions Web en l'institut Joaquim Mir.
